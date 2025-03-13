@@ -370,14 +370,14 @@ $announcements = [
                 </li>
                 <!-- Students -->
                 <li>
-                    <a href="#" class="flex items-center p-2.5 rounded-lg hover:bg-gray-700/50 transition-all">
+                    <a href="admin_student.php" class="flex items-center p-2.5 rounded-lg hover:bg-gray-700/50 transition-all">
                         <i class="fas fa-users w-5 h-5 text-gray-400 group-hover:text-white"></i>
                         <span class="ml-3">Students</span>
                     </a>
                 </li>
                 <!-- Sit-in -->
                 <li>
-                    <a href="#" class="flex items-center p-2.5 rounded-lg hover:bg-gray-700/50 transition-all">
+                    <a href="sit-in.php" class="flex items-center p-2.5 rounded-lg hover:bg-gray-700/50 transition-all">
                         <i class="fas fa-chair w-5 h-5 text-gray-400 group-hover:text-white"></i>
                         <span class="ml-3">Sit-in</span>
                     </a>
